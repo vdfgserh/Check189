@@ -1,6 +1,3 @@
-天翼云盘签到
-
-forked from [Wang-KH/Cloud189Checkin-Actions](https://github.com/Wang-KH/Cloud189Checkin-Actions)
 
 天翼云盘每天签到1次，抽奖2次（可多账号）
 
